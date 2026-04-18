@@ -71,10 +71,10 @@ paper https://ieeexplore.ieee.org/document/10887334
 
 code https://github.com/XinyiYing/RFR
 
-### 5. 
-paper
+### 5. Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection [TGRS 25]
+paper https://ieeexplore.ieee.org/document/11184625
 
-code 
+code https://github.com/UESTC-nnLab/WeCoL
 
 ## SIRSTD
 ### 1. It’s Not the Target, It’s the Background: Rethinking Infrared Small Target Detection via Deep Patch-Free Low-Rank Representations [TGRS 25]
